@@ -1,0 +1,12 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Lab Partners:
+
+Question 1: The lucky number is no longer random because you end up multiplying the number by 0, so it will always output 5.0 since you add 5.0 after 0
+Question 2: The smallest number we would expect is 2.5, and the largest number we would expect is a number strictly less than 12.5
+Question 3: double s = Math.sqrt(a + b);
+            double q = Math.sqrt(a) + Math.sqrt(b);
+            double d = (s - q);
+            System.out.println("The square root of the sum is: " + s);
+            System.out.println("The sum of the square roots is: " + q);
+            System.out.println("THe difference between the previous results is: " + d);

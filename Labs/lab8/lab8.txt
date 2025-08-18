@@ -1,0 +1,14 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Date: 3/30/22
+
+Question 1: StdOut.println("You earned " + mean(double[] a) + " semester quiz average.");
+Question 2: double bestEarlyQuiz = max(double[] a);
+            double bestLaterQuiz = max(double[] a);
+            if (bestLaterQuiz > bestEarlyQuiz); {
+                StdOut.println("Congrats! You improved!");
+            }
+Question 3: a: plotPoints(double[] a) b: plotBars(double[] a) c: plotLines(double[] a)
+Question 4: int is returned from the SongTime.toSeconds() function
+Question 5: It would return a value of 135
+Question 6: it would return a String of 4:20

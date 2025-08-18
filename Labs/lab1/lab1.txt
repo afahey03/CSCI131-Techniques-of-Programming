@@ -1,0 +1,9 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Assignment: CSCI 131, Lab 1
+Lab Partners: None
+
+Question 1: Alan Turing
+Question 2: James Gosling
+Question 3: Barbara Liskov
+Question 4: Michael C. McFarland

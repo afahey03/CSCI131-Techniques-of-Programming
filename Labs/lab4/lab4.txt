@@ -1,0 +1,8 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Assignment: CSCI 131, lab 4
+Lab Partners: None
+
+Question 1: 3 appears 12% of the time
+Question 2: 1 is the most common, appearing 30% of the time
+Question 3: 9 is the least common, appearing 5% of the time

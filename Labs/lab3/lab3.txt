@@ -1,0 +1,11 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Assignment: Lab 3
+Lab Partners: 
+
+Question 1: Snake is never printed because the way n is calculated has a minimum of 1 and not 0
+Question 2: The largest possible value for n this program will choose is 5
+Question 3: Orthoptera
+Question 4: The line wings = StdIn.readInt(); reads the input you provide
+Question 5: The user must input 0, and S (or s) to get "Hemiptera" printed
+Question 6: The purpose of having two case statements here is so the program can run regardless of whether the user inputs a capital or lowercase letter. If you remove one of these cases and input whichever case isn't there, the program prints "Sorry, the insect can't be classified."

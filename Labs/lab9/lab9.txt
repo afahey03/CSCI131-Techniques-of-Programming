@@ -1,0 +1,12 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Date: 4/5/22
+
+Question 1: The pow() function is called 12 times, 6 in the recursive case and 6 in the base case
+Question 2: This arithmetic happens before the base case
+Question 3: This arithmetic happens after the base case. pow(-1, -1) will never reach the base case. pow(0, 0) will reach the base case. pow(5, -1) will never reach the base case. pow(-1, 5) will reach the base case
+Question 4: All values of a and all values of b greater than or equal to 0 are guaranteed to reach the base case. A negative b value will cause int r to be 0 because int can only be one value and it will then try to return 0
+Question 5: The first and second cases are both base cases and the third is the recursive case
+Question 6: 
+Question 7: 2
+Question 8: 250 is eventually returned to main(), representing the sum of the values assigned to each positiion of the array

@@ -1,0 +1,1 @@
+I met with Dan Capobianco on Monday at 7:30 PM and he explained, in general, how arrays and functions worked so I could better understand them.

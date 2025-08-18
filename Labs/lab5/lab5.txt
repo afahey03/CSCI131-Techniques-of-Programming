@@ -1,0 +1,12 @@
+Name: Aidan Fahey
+Email: amfahe25@g.holycross.edu
+Date: 2/28/22
+Lab Partners: None
+
+Question 1: The program expects int to be input
+Question 2: The program has an error and says "Exception in thread "main" java.util.InputMismatchException"
+Question 3: The program is only meant to accept a max of 20 grades, and line 33 fails if the user enters too many grades
+Question 4: The program stops reading user input when the user inputs a negative number
+Question 5: Any argument values greater than 20 will cause the program to crash they exceed 20. It crashes on line 42
+Question 6: When using a 0, the average is "NaN" because it's undefined. When using a negative, the average is 0.0 because a negative number will be less than int i
+Question 7: It starts at 1 so it starts counting from the first grade. If the loop was changed to start with 0, it won't count the first grade and will start from the second. It will still produce the same average and maximum grade, but it won't print out the correct first last and middle grade unless you change the args value of them

@@ -1,0 +1,3 @@
+I did not collaborate with anyone on this project.
+
+I did not attempt any extra credit. I believe everything should work, except the program might continue to count revealed cells. Other than that, the help box, timer, difficulties, revealing hidden mines, etc. should all work.
